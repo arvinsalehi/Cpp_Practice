@@ -28,10 +28,8 @@ This project assumes that you have the following dependencies installed on your 
 
 - C++ compiler (e.g., g++ for Linux/MacOS or MinGW for Windows)
 - Make
-Contributing
-```
 
-## Contributing
+### Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
