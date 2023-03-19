@@ -1,0 +1,3 @@
+/home/arvin/CLionProjects/first/cmake-build-debug/CMakeFiles/first.dir
+/home/arvin/CLionProjects/first/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arvin/CLionProjects/first/cmake-build-debug/CMakeFiles/rebuild_cache.dir

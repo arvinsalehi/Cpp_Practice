@@ -1,0 +1,3 @@
+/home/arvin/CLionProjects/Lab2_5/cmake-build-debug/CMakeFiles/Lab2_5r.dir
+/home/arvin/CLionProjects/Lab2_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arvin/CLionProjects/Lab2_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
