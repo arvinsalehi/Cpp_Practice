@@ -12,7 +12,7 @@ This repository contains my C++ projects and assignments. Each project/assignmen
 - [Project/Lab 6](https://github.com/arvinsalehi/Cpp_Practice/tree/main/Lab-6)
 - [Project/Assignment 1](https://github.com/arvinsalehi/Cpp_Practice/tree/main/assignment1) ( Not complete)
 
-### Getting Started
+## Getting Started
 To get started, clone this repository on your local machine:
 
 
@@ -22,14 +22,14 @@ git clone https://github.com/arvinsalehi/Cpp_Practice.git
 
 ```
 
-### Dependencies
+## Dependencies
 
 This project assumes that you have the following dependencies installed on your system:
 
 - C++ compiler (e.g., g++ for Linux/MacOS or MinGW for Windows)
 - Make
 
-### Contributing
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
