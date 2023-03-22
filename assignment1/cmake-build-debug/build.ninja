@@ -55,6 +55,12 @@ build CMakeFiles/assignment1.dir/main.cpp.o: CXX_COMPILER__assignment1_Debug /ho
   OBJECT_DIR = CMakeFiles/assignment1.dir
   OBJECT_FILE_DIR = CMakeFiles/assignment1.dir
 
+build CMakeFiles/assignment1.dir/CardGame.cpp.o: CXX_COMPILER__assignment1_Debug /home/arvin/CLionProjects/assignment1/CardGame.cpp || cmake_object_order_depends_target_assignment1
+  DEP_FILE = CMakeFiles/assignment1.dir/CardGame.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/assignment1.dir
+  OBJECT_FILE_DIR = CMakeFiles/assignment1.dir
+
 build CMakeFiles/assignment1.dir/Player.cpp.o: CXX_COMPILER__assignment1_Debug /home/arvin/CLionProjects/assignment1/Player.cpp || cmake_object_order_depends_target_assignment1
   DEP_FILE = CMakeFiles/assignment1.dir/Player.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
@@ -73,12 +79,6 @@ build CMakeFiles/assignment1.dir/CardGameAdapter.cpp.o: CXX_COMPILER__assignment
   OBJECT_DIR = CMakeFiles/assignment1.dir
   OBJECT_FILE_DIR = CMakeFiles/assignment1.dir
 
-build CMakeFiles/assignment1.dir/CardGame.cpp.o: CXX_COMPILER__assignment1_Debug /home/arvin/CLionProjects/assignment1/CardGame.cpp || cmake_object_order_depends_target_assignment1
-  DEP_FILE = CMakeFiles/assignment1.dir/CardGame.cpp.o.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/assignment1.dir
-  OBJECT_FILE_DIR = CMakeFiles/assignment1.dir
-
 build CMakeFiles/assignment1.dir/PlayerAdult.cpp.o: CXX_COMPILER__assignment1_Debug /home/arvin/CLionProjects/assignment1/PlayerAdult.cpp || cmake_object_order_depends_target_assignment1
   DEP_FILE = CMakeFiles/assignment1.dir/PlayerAdult.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
@@ -93,7 +93,7 @@ build CMakeFiles/assignment1.dir/PlayerAdult.cpp.o: CXX_COMPILER__assignment1_De
 #############################################
 # Link the executable assignment1
 
-build assignment1: CXX_EXECUTABLE_LINKER__assignment1_Debug CMakeFiles/assignment1.dir/main.cpp.o CMakeFiles/assignment1.dir/Player.cpp.o CMakeFiles/assignment1.dir/PlayerYouth.cpp.o CMakeFiles/assignment1.dir/CardGameAdapter.cpp.o CMakeFiles/assignment1.dir/CardGame.cpp.o CMakeFiles/assignment1.dir/PlayerAdult.cpp.o
+build assignment1: CXX_EXECUTABLE_LINKER__assignment1_Debug CMakeFiles/assignment1.dir/main.cpp.o CMakeFiles/assignment1.dir/CardGame.cpp.o CMakeFiles/assignment1.dir/Player.cpp.o CMakeFiles/assignment1.dir/PlayerYouth.cpp.o CMakeFiles/assignment1.dir/CardGameAdapter.cpp.o CMakeFiles/assignment1.dir/PlayerAdult.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/assignment1.dir
   POST_BUILD = :
