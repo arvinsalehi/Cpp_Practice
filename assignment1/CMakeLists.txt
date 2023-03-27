@@ -12,10 +12,7 @@ add_executable(assignment1
         main.cpp
         CardGame.h
         Player.h
-        Card.h
         PlayerYouth.h
-        DependantCard.h
-        AttackCard.h
         CardGameAdapter.cpp
         CardGameAdapter.h
         PlayerAdult.h

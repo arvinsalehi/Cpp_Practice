@@ -6,6 +6,7 @@
 #define ASSIGNMENT1_CARDGAME_H
 
 #include <iostream>
+#include <iomanip>
 #include "CardGameAdapter.h"
 #include "PlayerYouth.h"
 #include "PlayerAdult.h"
@@ -200,7 +201,7 @@ void CardGame<T>::run() {
 
     // Print out the final report for each player. Give the player's name and the player's cash.
     for (auto &p: this->player) {
-        cout << p->GetName() << " has " << "$" << p->getCash() << endl;
+        cout << p->GetName() << " has " << "$" << std::fixed << std::setprecision(2) << p->getCash() << endl;
     }
     // Be sure to print the cash to two decimal places.
     // Be sure to clean up before finishing the program.

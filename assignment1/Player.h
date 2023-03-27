@@ -8,7 +8,6 @@
 #include <string>
 #include <list>
 #include "utilities.h"
-#include "Card.h"
 
 using namespace std;
 
