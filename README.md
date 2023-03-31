@@ -11,6 +11,7 @@ This repository contains my C++ projects and assignments. Each project/assignmen
 - [Project/Lab 5](https://github.com/arvinsalehi/Cpp_Practice/tree/main/Lab2_5)
 - [Project/Lab 6](https://github.com/arvinsalehi/Cpp_Practice/tree/main/Lab-6)
 - [Project/Assignment 1](https://github.com/arvinsalehi/Cpp_Practice/tree/main/assignment1)
+- [Project/Lab 7](https://github.com/arvinsalehi/Cpp_Practice/tree/main/lab2-7)
 
 ## Getting Started
 To get started, clone this repository on your local machine:
