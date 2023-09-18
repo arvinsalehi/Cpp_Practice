@@ -1,0 +1,3 @@
+/home/arvin/CLionProjects/Weighted_Search_Engine/cmake-build-debug/CMakeFiles/Weighted_Search_Engine.dir
+/home/arvin/CLionProjects/Weighted_Search_Engine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arvin/CLionProjects/Weighted_Search_Engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
