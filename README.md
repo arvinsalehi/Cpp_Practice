@@ -1,6 +1,6 @@
 # C++ Repository README
 
-This repository contains my C++ projects and assignments. Each project/assignment is stored in a separate directory along with a README.md file that provides a brief overview of the project/assignment and how to run it.
+This repository contains my C++ projects and assignments.
 
 ## Table of Contents
 
